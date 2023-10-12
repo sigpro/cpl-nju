@@ -4,6 +4,10 @@
 
 #include <stdio.h>
 
+/*
+ *  main: function
+ *  y <- f(x)
+ */
 int main() {
   printf("Hello, world\n");
 
