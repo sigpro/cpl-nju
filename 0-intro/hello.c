@@ -7,6 +7,8 @@
 /*
  *  main: function
  *  y <- f(x)
+ *  accept no arguments
+ *  int: integer value
  */
 int main() {
   printf("Hello, world\n");
