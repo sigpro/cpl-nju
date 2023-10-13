@@ -3,5 +3,7 @@ project(cpl_nju C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(cpl_nju
-        hello.c)
+add_executable(hello
+        hello.c )
+add_executable(guess
+        guess.c)
