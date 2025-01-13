@@ -1,1 +1,6 @@
 add_executable(primes primes.c)
+add_executable(binary-search binary-search.c)
+add_executable(digits-while digits-while.c)
+add_executable(digits-do-while digits-do-while.c)
+add_executable(digits-for digits-for.c)
+add_executable(selection-sort selection-sort.c)
